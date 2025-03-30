@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FAQ Moderno | Rafaeru.js</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
+<body>
+    <header class="faq-header">
+        <div class="container">
+            <h1>Perguntas Frequentes</h1>
+            <p>Tire suas dúvidas sobre nossos produtos e serviços</p>
+            <div class="seach-box">
+                <input type="text" placeholder="Buscar Perguntas...">
+                <button><i class="fas fa-search"></i></button>
+            </div>
+        </div>
+    </header>
+
+    <main class="container">
+        <div class="faq-categories">
+            <button class="active" data-category="all">Todas</button>
+            <button data-category="account">Conta</button>
+            <button data-category="payments">Pagamentos</button>
+            <button data-category="products">Produtos</button>
+        </div>
+
+        <div class="faq-accordion" id="faqContainer"></div>
+    </main>
+
+    <footer>
+        <p>Não encontrou o que procura?<a href="#">Fale conosco</a></p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>

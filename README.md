@@ -20,10 +20,10 @@
 3. Abra `index.html` no navegador  
 
 📸 **Preview**  
-![Screenshot](https://i.imgur.com/JQ7G8bA.png)  
+![Screenshot](https://imgur.com/a/JK0MR8z)  
 
 💡 **Dica**: Personalize as cores no arquivo `style.css` (variáveis `:root`)  
 
 🔗 **Live Demo**: [Ver online](#)  
 
-Feito com ❤️ por [Seu Nome]  
+Feito com ❤️ por rafaeru.js  

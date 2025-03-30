@@ -1,0 +1,34 @@
+{
+    "faq": [
+        {
+            "question": "Como crio uma conta?",
+            "answer": "Para criar uma conta, clique em 'Cadastrar' no canto superior direito, preencha seus dados e confirme seu e-mail.",
+            "category": "account"
+        },
+        {
+            "question": "Quais métodos de pagamento vocês aceitam?",
+            "answer": "Aceitamos cartões de crédito (Visa, Mastercard, Amex), Pix e boleto bancário.",
+            "category": "payments"
+        },
+        {
+            "question": "Posso cancelar minha assinatura a qualquer momento?",
+            "answer": "Sim, você pode cancelar quando quiser sem taxas adicionais. Seu acesso permanece até o final do período pago.",
+            "category": "account"
+        },
+        {
+            "question": "Qual é o prazo de entrega?",
+            "answer": "O prazo varia de 3 a 7 dias úteis, dependendo da sua localização. Entregas expressas chegam em até 48h.",
+            "category": "products"
+        },
+        {
+            "question": "Oferecem garantia para os produtos?",
+            "answer": "Todos nossos produtos têm garantia de 12 meses contra defeitos de fabricação.",
+            "category": "products"
+        },
+        {
+            "question": "Como faço para trocar um produto?",
+            "answer": "Entre em contato com nosso suporte em até 7 dias após o recebimento para solicitar a troca.",
+            "category": "products"
+        }
+    ]
+}
