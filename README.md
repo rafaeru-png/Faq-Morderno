@@ -24,6 +24,6 @@
 
 💡 **Dica**: Personalize as cores no arquivo `style.css` (variáveis `:root`)  
 
-🔗 **Live Demo**: [Ver online](#)  
+🔗 **Live Demo**: [Ver online](faq-moderno.netlify.app)  
 
 Feito com ❤️ por rafaeru.js  
