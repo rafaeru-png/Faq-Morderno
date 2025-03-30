@@ -20,10 +20,10 @@
 3. Abra `index.html` no navegador  
 
 📸 **Preview**  
-![Screenshot](https://imgur.com/a/JK0MR8z)  
+![Shot](https://imgur.com/a/JK0MR8z)  
 
 💡 **Dica**: Personalize as cores no arquivo `style.css` (variáveis `:root`)  
 
-🔗 **Live Demo**: [Ver online](faq-moderno.netlify.app)  
+🔗 **Live Demo**: [Ver online](https://faq-moderno.netlify.app)  
 
 Feito com ❤️ por rafaeru.js  
