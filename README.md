@@ -20,7 +20,7 @@
 3. Abra `index.html` no navegador  
 
 📸 **Preview**  
-![Shot](https://imgur.com/a/JK0MR8z)  
+![Print](https://imgur.com/uW1PUEu)  
 
 💡 **Dica**: Personalize as cores no arquivo `style.css` (variáveis `:root`)  
 
